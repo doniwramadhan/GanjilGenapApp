@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\bin\Debug\net6.0\GanjilGenapApp.exe
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\bin\Debug\net6.0\GanjilGenapApp.deps.json
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\bin\Debug\net6.0\GanjilGenapApp.runtimeconfig.json
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\bin\Debug\net6.0\GanjilGenapApp.dll
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\bin\Debug\net6.0\GanjilGenapApp.pdb
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\obj\Debug\net6.0\GanjilGenapApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\obj\Debug\net6.0\GanjilGenapApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\obj\Debug\net6.0\GanjilGenapApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\obj\Debug\net6.0\GanjilGenapApp.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\obj\Debug\net6.0\GanjilGenapApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\obj\Debug\net6.0\GanjilGenapApp.dll
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\obj\Debug\net6.0\refint\GanjilGenapApp.dll
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\obj\Debug\net6.0\GanjilGenapApp.pdb
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\obj\Debug\net6.0\GanjilGenapApp.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\GanjilGenapApp\GanjilGenapApp\obj\Debug\net6.0\ref\GanjilGenapApp.dll
